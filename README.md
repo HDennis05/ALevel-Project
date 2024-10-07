@@ -1,6 +1,6 @@
 # A Level Project
 
-## Mark for project: 100%
+## Mark for project: 89%
 ## Final grade for subject: A*
 
 Project brief was to create an app to sell a product. My application allowed for the buying and selling of video games.
