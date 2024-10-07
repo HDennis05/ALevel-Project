@@ -3,9 +3,22 @@
 ## Mark for project: 100%
 ## Final grade for subject: A*
 
-Project brief was to create an app in python to sell a product. My application allowed for the buying and selling of video games.
+Project brief was to create an app to sell a product. My application allowed for the buying and selling of video games.
+The project contained discussion, investigation, design, prototyping, refinement of design, implementation, testing and evaluation stages.
 
+Over the year of this project I created thorough documentation on the design and creation of the application which is over 50 Pages long. Including concept art, diagrams, final...
 
+The application contains a 3 views:
+- Customers: Can create an account to browse, buy and rate games. Can edit their own details and add a card to their account. After a purchase, the customer will   
+  recieve a receipt to their email.
+- Staff: Can view sales analytics for games, genres and developers. They can also view and edit accounts and view all orders on the application.
+- Admin: Can also view staff menu with additional features of publishing a new game for sale, and functionality to email all customers for newsletters or sale 
+  announcements.
 
+Project uses a database created with DB Browser to hold information about users, admins and game statistics for the application. All passwords nd card information in the system are encrypted. ER diagrams for this database can be found in the documentation.
+
+Used Batch files to install the neccessary extrernal modules on first opening.
+
+Designed a GUI with Figma and created it using python library TKInterface. Screen shots of my Interface can be found in the documentation.
 
 
