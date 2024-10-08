@@ -4,9 +4,7 @@
 ## Final grade for subject: A*
 
 Project brief was to create an app to sell a product. My application allowed for the buying and selling of video games.
-The project contained discussion, investigation, design, prototyping, refinement of design, implementation, testing and evaluation stages.
-
-Over the year of this project I created thorough documentation on the design and creation of the application which is over 50 Pages long. Including concept art, diagrams, final...
+Over the year of this project I created thorough documentation on the design and creation of the application which is over 500 Pages long. Including discussion, investigation, design, prototyping, refinement of design, implementation, testing and evaluation stages.
 
 The application contains a 3 views:
 - Customers: Can create an account to browse, buy and rate games. Can edit their own details and add a card to their account. After a purchase, the customer will   
